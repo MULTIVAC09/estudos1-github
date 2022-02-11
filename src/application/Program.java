@@ -13,8 +13,6 @@ public class Program {
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Quantos empregados serão registrados?");
-		int quantEmpregados = sc.nextInt();
-		
 		List<Empregado> empregado = new ArrayList<>();
 		
 		for (Empregado x : empregado) {
